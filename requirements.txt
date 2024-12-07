@@ -8,3 +8,5 @@ seaborn
 keras
 graphviz
 torch
+tensorflow
+spectrum
