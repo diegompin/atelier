@@ -2,7 +2,7 @@ from .hitachi import *
 from .mfccmix import *
 from .ganf import *
 from .ransyncorders import *
-from .gavae import *
+from .gacvae import *
 
 __ALL__ = [
     Hitachi,
@@ -11,6 +11,6 @@ __ALL__ = [
     GANF,
     MFCCMix,
     RANSynCoders,
-    GAVAE
+    GACVAE
 ]
 
